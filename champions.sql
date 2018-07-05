@@ -1,3 +1,5 @@
+DROP DATABASE IF EXISTS exercicio01;
+
 CREATE TABLE champions(
              nome VARCHAR(50),
              descriçao VARCHAR(50),

@@ -27,4 +27,4 @@ INSERT INTO pessoas VALUE ('Oliver Victor Benjamin da Mota', '789.556.805-02', '
 INSERT INTO pessoas VALUE ('Bryan Caio Lopes', '213.217.201-30', '12.949.454-9', '1970/06/18', 48);
 
 
-SELECT * FROM pessoas;
+# SELECT * FROM pessoas;
