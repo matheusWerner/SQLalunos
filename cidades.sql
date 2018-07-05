@@ -20,6 +20,8 @@ SELECT cidade, LENGTH(cidade) 'letras' FROM cidades WHERE LENGTH(cidade) = 10;
 
 
 
+
+
  
 
 
